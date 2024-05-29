@@ -6,6 +6,8 @@ GitValuator is a web application that calculates the worth of a GitHub user base
 
 Check out the live preview of GitValuator: [GitValuator Live](https://kawsarahmad43.github.io/Hacker-Portfolio/)
 
+## UI 
+![image](https://github.com/KawsarAhmad43/GitValuator/assets/54704888/81bb1421-bb02-400d-828f-cde1124d54e0)
 ## Features
 
 - Fetches GitHub user information using GitHub API
@@ -48,9 +50,6 @@ cd GitValuator
 2. Click the "Calculate Worth" button.
 3. The user's information and calculated worth will be displayed in a glassmorphism card.
 
-## Screenshots
-
-![GitValuator Screenshot](screenshot.png)
 
 ## Contributing
 
