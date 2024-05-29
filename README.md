@@ -4,7 +4,7 @@ GitValuator is a web application that calculates the worth of a GitHub user base
 
 ## Live Preview
 
-Check out the live preview of GitValuator: [GitValuator Live](https://kawsarahmad43.github.io/Hacker-Portfolio/)
+Check out the live preview of GitValuator: [GitValuator Live](https://kawsarahmad43.github.io/GitValuator/)
 
 ## UI 
 ![image](https://github.com/KawsarAhmad43/GitValuator/assets/54704888/81bb1421-bb02-400d-828f-cde1124d54e0)
@@ -36,7 +36,7 @@ You need a web browser to run this project.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KawsarAhmad43/GitValuator.git
+git clone https://github.com/KawsarAhmad43/GitValuator.git
    ```
 2. Navigate the Project Directory:
   ```bash
