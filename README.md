@@ -35,11 +35,11 @@ You need a web browser to run this project.
 ### Installation
 
 1. Clone the repository:
-   ```bash
+```bash
 git clone https://github.com/KawsarAhmad43/GitValuator.git
-   ```
+```
 2. Navigate the Project Directory:
-  ```bash
+```bash
 cd GitValuator
 ```
 3. Open index.html in your Web Browser
