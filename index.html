@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>GitHub Worth Calculator</title>
+  <link rel="stylesheet" href="assets/css/style.css">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
+</head>
+<body>
+  <div class="container">
+    <h1>GitHub Worth Calculator</h1>
+    <input type="text" id="username" placeholder="Enter GitHub Username">
+    <button onclick="calculateWorth()">Calculate Worth</button>
+    <div id="user-card" class="hidden">
+      <div class="card">
+        <img id="avatar" src="" alt="Profile Image">
+        <div id="user-info"></div>
+        <div id="worth-value"></div>
+      </div>
+    </div>
+  </div>
+
+  <footer>
+    <p>&copy; All rights reserved. <a href="https://github.com/KawsarAhmad43">Kawsar Ahmad</a></p>
+  </footer>
+  <script src="assets/js/index.js"></script>
+</body>
+</html>
